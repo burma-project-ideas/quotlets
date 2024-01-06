@@ -7,3 +7,6 @@ Summary
 2. Creator Data တွေကို Users JSON မှ ထုတ်ပြနိုင်ပါသည်။ 
 
 > အထက်ပါ data များကို [Quotlets.json](https://github.com/sannlynnhtun-coding/Quotlets/blob/main/Quotlets.json) နဲ့ [Users.json](https://github.com/sannlynnhtun-coding/Quotlets/blob/main/Users.json) တွေကနေ အသုံးပြုနိုင်ပါသည်။
+
+
+![Alt text](https://raw.githubusercontent.com/sannlynnhtun-coding/Quotlets/main/QuotletsMindMap.png)
